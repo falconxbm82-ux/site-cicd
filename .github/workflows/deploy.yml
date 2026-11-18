@@ -1,5 +1,4 @@
-# Workflow автоматической публикации статического сайта на GitHub Pages.
-# Файл размещается в репозитории по пути: .github/workflows/deploy.yml
+- run: exit 1
 name: Deploy static site # название workflow (видно на вкладке Actions)
 
 on:
