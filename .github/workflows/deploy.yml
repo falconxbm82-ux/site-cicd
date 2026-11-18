@@ -1,4 +1,4 @@
-- run: exit 1
+
 name: Deploy static site # название workflow (видно на вкладке Actions)
 
 on:
